@@ -1,0 +1,8 @@
+URxvt*font: xft:DejaVu Sans Mono:size=10:antialiasing=true:hinting=true
+URxvt*geometry: 120x40
+xterm*faceName: DejaVu Sans Mono
+xterm*faceSize: 10.0
+*background: gray95
+*foreground: gray15
+
+#include ".xrdb/colorscheme-terminal.app"
