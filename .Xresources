@@ -5,4 +5,4 @@ xterm*faceSize: 10.0
 *background: gray95
 *foreground: gray15
 
-#include ".xrdb/colorscheme-terminal.app"
+#include ".xrdb/colorscheme-tomorrownight"
