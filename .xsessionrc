@@ -2,3 +2,5 @@ GTK_IM_MODULE="xim"
 export GTK_IM_MODULE
 QT_IM_MODULE="xim"
 export QT_IM_MODULE
+export QT_XKB_CONFIG_ROOT=/usr/share/X11/xkb
+
