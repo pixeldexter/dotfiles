@@ -34,3 +34,6 @@ include "%L"
 <Multi_key> <g> <F> : "Φ"
 <Multi_key> <g> <U> : "Ψ"
 <Multi_key> <g> <O> : "Ω"
+
+# some useful symbols
+<Multi_key> <\> </> : "✓"
